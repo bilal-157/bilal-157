@@ -22,4 +22,3 @@ I'm currently learning Data Science and AI, participating in hackathons, and bui
 [![](https://visitcount.itsvg.in/api?id=bilal-157&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- My Facebook icon and link not working correctly
