@@ -15,10 +15,8 @@ I'm currently learning Data Science and AI, participating in hackathons, and bui
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilal-157&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo  
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=bilal-157&limit=5&theme=dark)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bilal-157&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Profile Views](https://visitcount.itsvg.in/api?id=bilal-157&icon=0&color=0)](https://visitcount.itsvg.in)
