@@ -40,37 +40,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🚀 Projects
-Here are some of the projects I've worked on:
-- **Project 1**: [Project Name](https://github.com/yourusername/project1) - A brief description of the project.
-- **Project 2**: [Project Name](https://github.com/yourusername/project2) - A brief description of the project.
-- **Project 3**: [Project Name](https://github.com/yourusername/project3) - A brief description of the project.
-
-## 🏆 Achievements
-- 🥇 **Winner** at [Hackathon Name] - Developed [Project Name].
-- 🥈 **Runner-up** at [Competition Name] - Built [Project Name].
-- 📜 **Certifications**: [Certification Name], [Certification Name].
-
-## 🎯 Goals for 2023
-- Contribute to **5+ open-source projects**.
-- Master **Machine Learning** and **Deep Learning** concepts.
-- Publish **2 technical blogs** on Medium or Dev.to.
-
-## ⚡ Fun Facts
-- I once broke my keyboard while debugging a code issue. 😅
-- I love solving **Rubik's Cubes** in my free time.
-- I'm a huge fan of **Sci-Fi movies** and **AI documentaries**.
-
----
-
-### 🔝 Top Contributed Repo  
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=bilal-157&limit=5&theme=dark)  
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=bilal-157&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
