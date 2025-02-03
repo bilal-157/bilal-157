@@ -1,3 +1,7 @@
+Certainly! Here's the updated version of your README with **Mongoose**, **Cursor IDE**, **Thunder Client**, and **Git** added to the respective sections:
+
+---
+
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;Passionate+about+AI%2C+DSA+%26+Open-Source!+🚀" alt="Typing SVG" />
@@ -33,11 +37,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### **🔹 Backend**  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)  
 ![NextAuth](https://img.shields.io/badge/NextAuth-%2320232a.svg?style=for-the-badge&logo=auth0&logoColor=white)  
@@ -46,8 +52,14 @@
 
 ### **🔹 Tools & Deployment**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-FF6C37?style=for-the-badge&logo=thunder-client&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-007ACC?style=for-the-badge&logo=cursor&logoColor=white)  
 
 ---
 
@@ -83,5 +95,3 @@
 </p>
 
 ---
-
-
