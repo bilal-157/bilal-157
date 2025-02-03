@@ -1,6 +1,3 @@
-Certainly! Here's the updated version of your README with **Mongoose**, **Cursor IDE**, **Thunder Client**, and **Git** added to the respective sections:
-
----
 
 <!-- Banner -->
 <p align="center">
