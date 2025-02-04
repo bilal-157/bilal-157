@@ -1,5 +1,5 @@
 
-<!-- Banner -->
+<!-- Bannerr -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;Passionate+about+AI%2C+DSA+%26+Open-Source!+🚀" alt="Typing SVG" />
 </p>
