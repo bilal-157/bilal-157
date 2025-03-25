@@ -1,17 +1,22 @@
-<!-- Bannerr -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;Passionate+about+AI%2C+DSA+%26+Open-Source!+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;AI+Enthusiast+%26+Open-Source+Contributor;Passionate+Problem+Solver;Let's+build+something+awesome+together+🚀" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</p>
 
 ## 🚀 **About Me**  
-🔭 Currently learning **Data Science & AI**, participating in **hackathons**.  
-🌱 Practicing **Data Structures & Algorithms (DSA)** on LeetCode.  
-💻 Building **full-stack applications** with **Next.js** & **MongoDB**.  
-🛠️ Exploring **DevOps, Backend architectures, and GraphQL**.  
+🔭 Currently learning **Data Science & AI**, participating in **hackathons**  
+🌱 Practicing **Data Structures & Algorithms (DSA)** on LeetCode  
+💻 Building **full-stack applications** with **Next.js** & **MongoDB**  
+🛠️ Exploring **DevOps, Backend architectures, and GraphQL**  
+  
 
----
 
 ## 🌐 **Connect With Me**  
 <p align="center">
@@ -89,4 +94,3 @@
 </p>
 
 ---
- add more things that can improve my github repositories
