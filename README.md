@@ -26,8 +26,6 @@
   <a href="https://www.linkedin.com/in/muhammadbilal711"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
-
----
 ## 💻 **Tech Stack & Skills**
 
 ### **🌐 Frontend Development**
@@ -43,7 +41,7 @@
 
 ### **⚙️ Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,fastapi&perline=5" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,fastapi,python,cpp,cs&perline=8" alt="Backend Technologies" />
 </p>
 
 | Category       | Technologies                                                                 |
@@ -52,6 +50,7 @@
 | Frameworks     | ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
 | Databases      | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) |
 | APIs           | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=rest&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white) |
+| Languages      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
 
 ### **🛠️ Tools & Deployment**
 <p align="center">
@@ -73,6 +72,9 @@ Node.js        █████████████████░░░░�
 MongoDB        ████████████████░░░░░░░░   70%
 JavaScript     ██████████████████████░░   95%
 HTML/CSS       ███████████████████████░   98%
+Python         ██████████████████░░░░░░   80%
+C++            █████████████░░░░░░░░░░░   60%
+C#             ████████████░░░░░░░░░░░░   50%
 ```
 <!-- GitHub Stats & Streak -->
 <p align="center">
