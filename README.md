@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Bannerr -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;Passionate+about+AI%2C+DSA+%26+Open-Source!+🚀" alt="Typing SVG" />
 </p>
@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 **About Me**  
-🔭 Currently learning **Data Science & AI**, participating in **hackathons**  
-🌱 Practicing **Data Structures & Algorithms (DSA)** on LeetCode  
-💻 Building **full-stack applications** with **Next.js** & **MongoDB**  
-🛠️ Exploring **DevOps, Backend architectures, and GraphQL**  
+🔭 Currently learning **Data Science & AI**, participating in **hackathons**.  
+🌱 Practicing **Data Structures & Algorithms (DSA)** on LeetCode.  
+💻 Building **full-stack applications** with **Next.js** & **MongoDB**.  
+🛠️ Exploring **DevOps, Backend architectures, and GraphQL**.  
 
 ---
 
@@ -25,76 +25,68 @@
 ---
 
 ## 💻 **Tech Stack**  
-### **Frontend & Mobile**  
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### **🔹 Frontend**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### **🔹 Backend**  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)  
+![NextAuth](https://img.shields.io/badge/NextAuth-%2320232a.svg?style=for-the-badge&logo=auth0&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+
+### **🔹 Tools & Deployment**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-FF6C37?style=for-the-badge&logo=thunder-client&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-007ACC?style=for-the-badge&logo=cursor&logoColor=white)  
 
 ---
-
-## 🏆 **GitHub Stats**
+<!-- GitHub Stats & Streak -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&theme=radical&langs_count=8" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bilal-157&theme=radical&column=4&margin-w=15" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
----
-
-## 🚀 **Featured Projects**
-
-### 🔥 **Full-Stack Applications**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bilal-157&repo=your-repo-name&theme=radical)](https://github.com/bilal-157/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bilal-157&repo=another-repo&theme=radical)](https://github.com/bilal-157/another-repo)
-
-### 🤖 **AI/ML Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bilal-157&repo=ai-project&theme=radical)](https://github.com/bilal-157/ai-project)
+## 🔥 **Achievements & Projects**  
+✅ Participated in multiple **hackathons** and **open-source contributions**.  
+✅ Developed full-stack projects with **Next.js & MongoDB**.  
+✅ Working on AI & Data Science applications.  
 
 ---
 
-## 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable Next.js Application](https://yourblog.com/nextjs-architecture)
-- [Getting Started with Machine Learning in Python](https://yourblog.com/ml-python)
-<!-- BLOG-POST-LIST:END -->
+### 🎯 **Goals for 2025**  
+- ✅ Contribute to **5+ open-source projects**  
+- ✅ Master **Machine Learning & Deep Learning**  
+- ✅ Publish **2 technical blogs**  
 
 ---
 
-## 🔥 **Recent Activity**
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bilal-157/repo/pull/1) in [bilal-157/repo](https://github.com/bilal-157/repo)
-2. 🚀 Pushed 3 commits to [bilal-157/repo](https://github.com/bilal-157/repo)
-3. 💪 Opened PR [#2](https://github.com/bilal-157/repo/pull/2) in [bilal-157/repo](https://github.com/bilal-157/repo)
-<!--END_SECTION:activity-->
-
----
-
-## 🎯 **Goals for 2025**
-- [x] Contribute to 5+ open-source projects
-- [ ] Master Machine Learning & Deep Learning
-- [ ] Publish 2 technical blogs
-- [ ] Build a SaaS product
-- [ ] Get 1k+ GitHub stars across projects
-
----
-
-## 💡 **Fun Fact**
+## 🎯 **Random Dev Quote**  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+---
+ add more things that can improve my github repositories
