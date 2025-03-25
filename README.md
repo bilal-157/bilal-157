@@ -41,14 +41,14 @@
 
 ### **⚙️ Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,fastapi,python,cpp,cs&perline=8" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,fastapi,python,cpp,cs&perline=9" alt="Backend Technologies" />
 </p>
 
 | Category       | Technologies                                                                 |
 |----------------|-----------------------------------------------------------------------------|
 | Runtime        | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 | Frameworks     | ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
-| Databases      | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) |
+| Databases      | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white) |
 | APIs           | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=rest&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white) |
 | Languages      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
 
@@ -69,7 +69,8 @@
 Next.js        ████████████████████░░░░   85%
 React          █████████████████████░░░   90%
 Node.js        █████████████████░░░░░░░   75%
-MongoDB        ████████████████░░░░░░░░   70%
+MongoDB        ██████████████████░░░░░░   80%
+PostgreSQL     ████████████████░░░░░░░░   70%
 JavaScript     ██████████████████████░░   95%
 HTML/CSS       ███████████████████████░   98%
 Python         ██████████████████░░░░░░   80%
