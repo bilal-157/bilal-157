@@ -59,18 +59,16 @@
 ![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-007ACC?style=for-the-badge&logo=cursor&logoColor=white)  
 
 ---
-
 <!-- GitHub Stats & Streak -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Fallback if Streak is Zero -->
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-streak-stats-omega.vercel.app?user=bilal-157&theme=radical" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
----
 
 ## 🔥 **Achievements & Projects**  
 ✅ Participated in multiple **hackathons** and **open-source contributions**.  
