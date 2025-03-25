@@ -60,16 +60,16 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+<!-- GitHub Stats & Streak -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical&hide_border=true&include_all_commits=false&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&hide_border=true"/>
 </p>
 
+<!-- Fallback if Streak is Zero -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact"/>
+  <img src="https://img.shields.io/endpoint?url=https://github-readme-streak-stats-omega.vercel.app?user=bilal-157&theme=radical" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🔥 **Achievements & Projects**  
