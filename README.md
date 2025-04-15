@@ -78,10 +78,10 @@ C++            █████████████░░░░░░░░�
 C#             ████████████░░░░░░░░░░░░   50%
 ```
 <!-- GitHub Stats & Streak -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=bilal-157&theme=radical" />
+</div>
 
 <!-- Top Languages -->
 <p align="center">
