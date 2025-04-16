@@ -1,10 +1,9 @@
 <!-- Animated Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;AI+Enthusiast+%26+Open-Source+Contributor;Passionate+Problem+Solver;Let's+build+something+awesome+together+🚀" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;AI+Enthusiast+%26+Open-Source+Contributor;Passionate+Problem+Solver;Let's+build+something+awesome+together+🚀" alt="Typing SVG" />
   </a>
 </p>
-
 
 <!-- Animated Divider -->
 <p align="center">
