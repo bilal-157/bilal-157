@@ -10,11 +10,18 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </p>
 
-## 🚀 **About Me**  
-🔭 Currently learning **Data Science & AI**, participating in **hackathons**  
-🌱 Practicing **Data Structures & Algorithms (DSA)** on LeetCode  
-💻 Building **full-stack applications** with **Next.js** & **MongoDB**  
-🛠️ Exploring **DevOps, Backend architectures, and GraphQL**  
+🚀 About Me
+🧠 Learning Data Science & AI – diving into real-world projects and concepts
+
+🏆 Hackathon Enthusiast – love solving problems under pressure and building with a team
+
+🧩 DSA Lover – sharpening my problem-solving skills daily on LeetCode
+
+🧑‍💻 Full-Stack Developer – building apps using Next.js and MongoDB
+
+⚙️ Backend & DevOps Explorer – experimenting with system design, APIs, and deployment pipelines
+
+🔌 GraphQL Curious – exploring modern API development beyond REST
   
 
 
