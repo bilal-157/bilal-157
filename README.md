@@ -85,3 +85,35 @@ HTML/CSS       █████████████████████�
 Python         ██████████████████░░░░░░   80%
 C++            █████████████░░░░░░░░░░░   60%
 C#             ████████████░░░░░░░░░░░░   50%
+```
+---
+<!-- GitHub Stats & Streak -->
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bilal-157&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical" />
+</div>
+
+
+<!-- Top Languages -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
+
+## 🔥 **Achievements & Projects**  
+✅ Participated in multiple **hackathons** and **open-source contributions**.  
+✅ Developed full-stack projects with **Next.js & MongoDB**.  
+✅ Working on AI & Data Science applications.  
+
+---
+
+### 🎯 **Goals for 2025**  
+- ✅ Contribute to **5+ open-source projects**  
+- ✅ Master **Machine Learning & Deep Learning**  
+- ✅ Publish **2 technical blogs**  
+
+---
+
+## 🎯 **Random Dev Quote**  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
