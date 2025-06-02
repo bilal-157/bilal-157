@@ -11,13 +11,14 @@
 </p>
 
 🚀 About Me
+
 🧠 Learning Data Science & AI – diving into real-world projects and concepts
 
 🏆 Hackathon Enthusiast – love solving problems under pressure and building with a team
 
 🧩 DSA Lover – sharpening my problem-solving skills daily on LeetCode
 
-🧑‍💻 Full-Stack Developer – building apps using Next.js and MongoDB
+🧑‍💻 Full-Stack Developer – building apps using Next.js and Node.js
 
 ⚙️ Backend & DevOps Explorer – experimenting with system design, APIs, and deployment pipelines
 
