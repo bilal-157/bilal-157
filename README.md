@@ -28,7 +28,10 @@
   <a href="https://instagram.com/bilal_rafique_11"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammadbilal711"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/bilal_rafi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/></a>
+  <a href="https://cses.fi/user/340387/"><img src="https://img.shields.io/badge/CSES-005FAF?logo=data&logoColor=white"/></a>
 </p>
+
 
 ---
 
