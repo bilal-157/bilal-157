@@ -22,6 +22,7 @@
 ---
 
 ## 🌐 **Connect With Me**  
+ 
 <p align="center">
   <a href="https://discord.gg/bugs119"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
   <a href="https://www.facebook.com/share/1B3TzGo6Wu/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"/></a>
@@ -30,7 +31,9 @@
   <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/bilal_rafi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/></a>
   <a href="https://cses.fi/user/340387/"><img src="https://img.shields.io/badge/CSES-005FAF?logo=data&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Bilal157/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
 </p>
+
 
 
 ---
