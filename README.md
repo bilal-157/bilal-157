@@ -76,8 +76,7 @@
 | Version Control | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 | API Testing     | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?logo=thunder-client&logoColor=white) |
 | Deployment      | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) |
-| IDEs            | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-007ACC?logo=cursor&logoColor=white) |
-
+| IDEs            | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-007ACC?logo=cursor&logoColor=white) ![Warp](https://img.shields.io/badge/Warp-007ACC?logo=warp&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-007ACC?logo=trae&logoColor=white) ![WindSurf](https://img.shields.io/badge/WindSurf-007ACC?logo=windsurf&logoColor=white) |
 ---
 
 ### 📊 **Skill Proficiency**
