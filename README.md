@@ -63,7 +63,7 @@
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,fastapi&perline=6" alt="Backend" />
 </p>
 
 ### 🤖 AI & Data Science
@@ -75,7 +75,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=8" alt="Tools" />
 </p>
-
 
 ---
 
