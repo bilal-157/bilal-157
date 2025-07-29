@@ -3,9 +3,19 @@
   <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="800" height="1">
 </div>
 
+<!-- Matrix Code Rain Background (Overlay Style) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="800" alt="Matrix code rain" />
+</div>
+
 <!-- 3D Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Bilal+Rafique;💻+Full-Stack+Next.js+Developer;🧠+AI+Enthusiast+%26+Open-Source+Contributor;🚀+Passionate+Problem+Solver;Let's+build+the+future+together!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Bilal+Rafique;💻+Full-Stack+Next.js+Developer;🧠+AI+Enthusiast+%26+Open-Source+Contributor;⚙️+Python,+C%2B%2B,+FastAPI,+GraphQL,+MongoDB;🚀+Let’s+Build+The+Future+Together!" alt="Typing animation" />
+</p>
+
+<!-- Animated Code GIF (Coder at Work) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder animation" />
 </p>
 
 <!-- Floating Tech Icons Animation -->
