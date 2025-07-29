@@ -164,37 +164,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode&perline=7&theme=light" alt="Tools" style="animation: float 6s ease-in-out infinite"/>
 </div>
 
-<!-- CSS for Animations (GitHub won't render this but works in browsers) -->
-<style>
-  @keyframes gradient {
-    0% {background-position: 0% 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0% 50%;}
-  }
-  @keyframes pulse {
-    0% {transform: scale(1);}
-    50% {transform: scale(1.05);}
-    100% {transform: scale(1);}
-  }
-  @keyframes float {
-    0% {transform: translateY(0px);}
-    50% {transform: translateY(-10px);}
-    100% {transform: translateY(0px);}
-  }
-</style>
-
-## 📊 **GitHub Stats**
-
-<!-- Animated Stats Cards with Glassmorphism -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); animation: float 6s ease-in-out infinite;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15"/>
-  </div>
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); animation: float 6s ease-in-out infinite; animation-delay: 0.5s;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&langs_count=8&theme=radical&border_radius=15"/>
-  </div>
-</div>
-
 <!-- Snake Game Contribution Graph -->
 <div align="center" style="margin-top: 30px;">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
