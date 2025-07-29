@@ -1,21 +1,22 @@
-<!-- Animated Banner with Gradient Typing Effect -->
+<!-- Floating Particles Background -->
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="800" height="1">
+</div>
+
+<!-- 3D Typing Animation Banner -->
 <p align="center">
-  <a href="https://github.com/bilal-157">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=00D8FF&center=true&vCenter=true&width=850&height=110&lines=✨+Hello+World!+I'm+Bilal+Rafique;🚀+Full-Stack+Next.js+Developer;🧠+AI+%26+Machine+Learning+Enthusiast;💡+Open-Source+Contributor;⚡+Passionate+Problem+Solver;Let's+create+something+amazing+together+💻" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&height=100&lines=👋+Hi%2C+I'm+Bilal+Rafique;💻+Full-Stack+Next.js+Developer;🧠+AI+Enthusiast+%26+Open-Source+Contributor;🚀+Passionate+Problem+Solver;Let's+build+the+future+together!" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Animated Wave Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&animation=fadeIn" width="100%"/>
-</p>
+<!-- Floating Tech Icons Animation -->
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+</div>
 
-<!-- 3D Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilal-157&label=Profile+Views&color=0e75b6&style=flat" alt="bilal-157" /> 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbilal-157&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" />
-</p>
-
+<!-- Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&animation=blink"/>
 <!-- Animated About Me Section -->
 <details open>
 <summary><h2 style="display: inline-block">🌟 About Me</h2></summary>
