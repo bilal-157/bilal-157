@@ -91,18 +91,16 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
-## 🔥 **Achievements & Projects**  
-✅ Participated in multiple **hackathons** and **open-source contributions**.  
-✅ Developed full-stack projects with **Next.js & MongoDB**.  
-✅ Working on AI & Data Science applications.  
-
----
-
-### 🎯 **Goals for 2025**  
-- ✅ Contribute to **5+ open-source projects**  
-- ✅ Master **Machine Learning & Deep Learning**  
-- ✅ Publish **2 technical blogs**  
-
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-157&theme=radical" width="90%"/>
+</div>
+----
+<!-- Animated Activity Graph -->
+<h2 align="center">🔥 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal-157&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&radius=8" width="90%"/>
+</p>
 ---
 
 ## 🎯 **Random Dev Quote**  
