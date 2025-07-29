@@ -63,17 +63,29 @@
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,fastapi&perline=6" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,graphql&perline=6" alt="Backend" />
 </p>
 
-### 🤖 AI & Data Science
+### 🤖 AI, Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter&perline=6" alt="AI" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,opencv,tensorflow,keras,jupyter&perline=7" alt="AI/ML" />
+</p>
+
+### 🔧 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts&perline=6" alt="Languages" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma&perline=8" alt="Tools" />
+</p>
+
+### ☁️ Cloud & SDKs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=6" alt="Cloud" />
+  <br />
+  <strong>Other SDKs/APIs:</strong> Gemini API, Google AI SDKs, Agentic AI SDKs
 </p>
 
 ---
