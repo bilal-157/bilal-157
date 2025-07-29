@@ -58,23 +58,24 @@
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,graphql&perline=9" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,py,django,flask&perline=9" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" alt="Backend" />
 </p>
 
 ### 🤖 AI & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,jupyter&perline=6" alt="AI" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter&perline=6" alt="AI" />
 </p>
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,gcp,postman,figma,vscode&perline=9" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=8" alt="Tools" />
 </p>
+
 
 ---
 
