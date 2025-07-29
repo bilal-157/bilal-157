@@ -95,17 +95,14 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-157&theme=radical" width="90%"/>
 </div>
-----
-<!-- Animated Activity Graph -->
-<h2 align="center">🔥 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal-157&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&radius=8" width="90%"/>
-</p>
----
 
-## 🎯 **Random Dev Quote**  
+<!-- Animated Quote -->
+<h2 align="center">💬 Dev Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" width="70%"/>
 </p>
 
-improve the animation and make it more beautiful and attractive
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
