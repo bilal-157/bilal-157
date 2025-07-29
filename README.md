@@ -1,23 +1,44 @@
-<!-- Animated Banner -->
+<!-- Retro CRT Terminal Banner -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Bilal+Rafique!;Full-Stack+Next.js+Developer;AI+Enthusiast+%26+Open-Source+Contributor;Passionate+Problem+Solver;Let's+build+something+awesome+together+🚀" alt="Typing SVG" />
+  <a href="https://github.com/bilal-157">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=500&color=39FF14&center=true&width=800&height=100&lines=________________________________________;+%3E%3E%3E+HELLO_WORLD.EXE;+%3E%3E%3E+USER%3A+BILAL_RAFIQUE;+%3E%3E%3E+TITLE%3A+FULL_STACK_DEV;+%3E%3E%3E+SPECIALTY%3A+NEXT.JS%2FAI;+%3E%3E%3E+STATUS%3A+BUIDLING_AWESOME;________________________________________;PRESS_ANY_KEY_TO_CONTINUE_...&bg_color=000000&repeat=false" alt="Retro Typing Animation" />
   </a>
 </p>
 
-<!-- Animated Divider -->
+<!-- Old School Scan Lines Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+  <img src="https://i.imgur.com/8MupZHY.gif" alt="CRT scan lines" width="100%" height="4"/>
 </p>
 
-🚀 About Me
+<!-- Floppy Disk Loading Animation -->
+<p align="center">
+  <img src="https://i.imgur.com/JXXiZqP.gif" width="150" alt="Loading..."/>
+</p>
 
-🧠 Learning Data Science & AI – diving into real-world projects and concepts  
-🏆 Hackathon Enthusiast – love solving problems under pressure and building with a team  
-🧩 DSA Lover – sharpening my problem-solving skills daily on LeetCode  
-🧑‍💻 Full-Stack Developer – building apps using Next.js and Node.js  
-⚙️ Backend & DevOps Explorer – experimenting with system design, APIs, and deployment pipelines  
-🔌 GraphQL Curious – exploring modern API development beyond REST  
+<!-- Retro Computer Art -->
+<pre align="center">
+  _______________________________
+|  ___________________________  |
+| |                           | |
+| |      BILAL_RAFIQUE        | |
+| |    FULL-STACK ENGINEER    | |
+| |___________________________| |
+|  ___   ___   ___    _____    |
+| | 1 | | 2 | | 3 |  |ENTER|   |
+| |___| |___| |___|  |_____|   |
+|______________________________|
+</pre>
+<!-- Animated About Me Section -->
+<details open>
+<summary><h2 style="display: inline-block">🌟 About Me</h2></summary>
+  
+🔭 I'm currently working on **AI-powered web applications**  
+🌱 Learning **Deep Learning & Advanced System Design**  
+💡 Passionate about **solving complex problems with elegant solutions**  
+👯 Looking to collaborate on **open-source projects**  
+⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**  
+</details>
+ Curious – exploring modern API development beyond REST  
 
 ---
 
