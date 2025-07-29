@@ -1,37 +1,48 @@
-<!-- Retro CRT Terminal Banner -->
+<!-- Neo-Tokyo Cyber Terminal -->
 <p align="center">
   <a href="https://github.com/bilal-157">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&width=800&height=120&lines=_________________________________________;%3E%3E%3E+HELLO_WORLD.EXE;%3E%3E%3E+USER%3A+BILAL_RAFIQUE;%3E%3E%3E+TITLE%3A+FULL_STACK_DEV;%3E%3E%3E+SPECIALTY%3A+NEXT.JS%2FAI;%3E%3E%3E+STATUS%3A+BUILDING_AWESOME;_________________________________________;PRESS_ANY_KEY_TO_CONTINUE_...&background=000000" alt="Retro Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=26&duration=2800&pause=800&color=00F0FF&background=0D111700&center=true&width=900&height=140&lines=_____________________________________________;%E2%9E%A4_%F0%9D%97%9C%F0%9D%97%A6%F0%9D%97%A5%F0%9D%97%A5_%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%A7%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A8;%E2%9E%A4_%F0%9D%97%94%F0%9D%97%9A%F0%9D%97%A7_%3A_%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%AB%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%AC%F0%9D%97%A8;%E2%9E%A4_%F0%9D%97%93%F0%9D%97%A8%F0%9D%97%AD%F0%9D%97%A8%F0%9D%97%A7_%3A_%F0%9D%97%8D%F0%9D%97%AE%F0%9D%97%AD%F0%9D%97%AD%F0%9D%97%9A_%F0%9D%97%8F%F0%9D%97%9A%F0%9D%97%AD%F0%9D%97%A6%F0%9D%97%AB%F0%9D%97%9A%F0%9D%97%AC;%E2%9E%A4_%F0%9D%97%92%F0%9D%97%9D%F0%9D%97%A6%F0%9D%97%9A%F0%9D%97%A5%F0%9D%97%A8%F0%9D%97%AD%F0%9D%97%9D_%3A_%F0%9D%97%8D%F0%9D%97%9E%F0%9D%97%A7%F0%9D%97%AD.%F0%9D%97%8A%F0%9D%97%9C%2F%F0%9D%97%80%F0%9D%97%88;%E2%9E%A4_%F0%9D%97%92%F0%9D%97%AD%F0%9D%97%9A%F0%9D%97%A7%F0%9D%97%9D%F0%9D%97%9A_%3A_%F0%9D%97%81%F0%9D%97%AE%F0%9D%97%9A%F0%9D%97%A5%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%A7%F0%9D%97%9E_%F0%9D%97%80%F0%9D%97%B0%F0%9D%97%9E%F0%9D%97%9A%F0%9D%97%A5%F0%9D%97%9E;_____________________________________________;%5B_%F0%9D%97%8F%F0%9D%97%A7%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%9C_%F0%9D%97%80%F0%9D%97%A7%F0%9D%97%9D%F0%9D%97%9D%F0%9D%97%9E%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9D%F0%9D%97%9A%F0%9D%97%A7%F0%9D%97%9D%F0%9D%97%A8_%F0%9D%97%9E%F0%9D%97%9D%F0%9D%97%AD%F0%9D%97%9A%F0%9D%97%A7%F0%9D%97%9E%F0%9D%97%9D%F0%9D%97%A8_%5D" alt="Cyber Typing Animation" />
   </a>
 </p>
 
-<!-- ASCII Art Divider -->
+<!-- Holographic Divider -->
 <pre align="center">
-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+╰─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─⋗─╯
 </pre>
 
-<!-- Working Floppy Disk Animation -->
+<!-- Quantum AI Core Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.webp" width="120" alt="Loading animation"/>
+  <img src="https://i.giphy.com/media/LqWTh0Bk1LQe4XAXkZ/giphy.webp" width="180" alt="AI Core animation"/>
 </p>
 
-<!-- Retro Computer ASCII Art -->
+<!-- Neural Network Visualization -->
 <pre align="center">
-   _______________________________
-  |  __________________________  |
-  | |                          | |
-  | |     BILAL_RAFIQUE        | |
-  | |   FULL-STACK ENGINEER    | |
-  | |__________________________| |
-  |  ___   ___   ___    _____   |
-  | | 1 | | 2 | | 3 |  |ENTER|  |
-  | |___| |___| |___|  |_____|  |
-  |______________________________|
+   ╭───────────────────────────────────────╮
+   │  ╔═════════════════════════════════╗  │
+   │  ║  █▀▀▀▀▀█ ▀▀▀██▀ █▀▀▀▀▀█ █▀▀▀▀▀█  ║  │
+   │  ║  █ ███ █ ▄▀ ▀▄ █ ███ █ █ ███ █  ║  │
+   │  ║  █ ▀▀▀ █ █▄▀▄█ █ ▀▀▀ █ █ ▀▀▀ █  ║  │
+   │  ║  ▀▀▀▀▀▀▀ █▄▀▄█ ▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀  ║  │
+   │  ║  ▄▄ ▄▄▄ ▄ ▀▀ ▀ ▄▄▄ ▄▄ ▀▀▀█▀▀▀▄  ║  │
+   │  ║  ▀████▀ ▀█▄█▀ ████▀██ ▄▀▀▀ ▀▀▄  ║  │
+   │  ║  █▀▀▀▀▀█ █▄█▀▀ █▀▀▀▀▀█ ▀ █▀█ ▀  ║  │
+   │  ║  █ ███ █ ▄ █▀▄ █ ███ █ █▄▀ █▄█  ║  │
+   │  ║  █ ▀▀▀ █ █ ▀▄█ █ ▀▀▀ █ ▀▀█▀▀▀  ║  │
+   │  ║  ▀▀▀▀▀▀▀ ▀▀▀ ▀ ▀▀▀▀▀▀▀ ▀ ▀▀ ▀  ║  │
+   │  ╚═════════════════════════════════╝  │
+   ╰───────────────────────────────────────╯
 </pre>
 
-<!-- Scan Lines Effect -->
+<!-- Data Stream Effect -->
 <p align="center">
-  <img src="https://i.imgur.com/nM6WQ5E.gif" width="100%" height="3" alt="Scan lines"/>
+  <img src="https://i.imgur.com/YKT1xQa.gif" width="100%" height="4" alt="Data stream"/>
+</p>
+
+<!-- Cyberpunk Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-brightgreen?style=for-the-badge&logo=vercel&logoColor=white&color=00FF9D" alt="System Status"/>
+  <img src="https://img.shields.io/badge/NEURAL_LOAD-37%25-9cf?style=for-the-badge&logo=openai&logoColor=white" alt="Neural Load"/>
+  <img src="https://img.shields.io/badge/QUANTUM_ENTANGLEMENT-ACTIVE-blue?style=for-the-badge&logo=quantum" alt="Quantum Status"/>
 </p>
 <!-- Animated About Me Section -->
 <details open>
