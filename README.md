@@ -1,33 +1,38 @@
 <!-- Retro CRT Terminal Banner -->
 <p align="center">
   <a href="https://github.com/bilal-157">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=500&color=39FF14&center=true&width=800&height=100&lines=________________________________________;+%3E%3E%3E+HELLO_WORLD.EXE;+%3E%3E%3E+USER%3A+BILAL_RAFIQUE;+%3E%3E%3E+TITLE%3A+FULL_STACK_DEV;+%3E%3E%3E+SPECIALTY%3A+NEXT.JS%2FAI;+%3E%3E%3E+STATUS%3A+BUIDLING_AWESOME;________________________________________;PRESS_ANY_KEY_TO_CONTINUE_...&bg_color=000000&repeat=false" alt="Retro Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&width=800&height=120&lines=_________________________________________;%3E%3E%3E+HELLO_WORLD.EXE;%3E%3E%3E+USER%3A+BILAL_RAFIQUE;%3E%3E%3E+TITLE%3A+FULL_STACK_DEV;%3E%3E%3E+SPECIALTY%3A+NEXT.JS%2FAI;%3E%3E%3E+STATUS%3A+BUILDING_AWESOME;_________________________________________;PRESS_ANY_KEY_TO_CONTINUE_...&background=000000" alt="Retro Typing Animation" />
   </a>
 </p>
 
-<!-- Old School Scan Lines Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" alt="CRT scan lines" width="100%" height="4"/>
-</p>
-
-<!-- Floppy Disk Loading Animation -->
-<p align="center">
-  <img src="https://i.imgur.com/JXXiZqP.gif" width="150" alt="Loading..."/>
-</p>
-
-<!-- Retro Computer Art -->
+<!-- ASCII Art Divider -->
 <pre align="center">
-  _______________________________
-|  ___________________________  |
-| |                           | |
-| |      BILAL_RAFIQUE        | |
-| |    FULL-STACK ENGINEER    | |
-| |___________________________| |
-|  ___   ___   ___    _____    |
-| | 1 | | 2 | | 3 |  |ENTER|   |
-| |___| |___| |___|  |_____|   |
-|______________________________|
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 </pre>
+
+<!-- Working Floppy Disk Animation -->
+<p align="center">
+  <img src="https://i.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.webp" width="120" alt="Loading animation"/>
+</p>
+
+<!-- Retro Computer ASCII Art -->
+<pre align="center">
+   _______________________________
+  |  __________________________  |
+  | |                          | |
+  | |     BILAL_RAFIQUE        | |
+  | |   FULL-STACK ENGINEER    | |
+  | |__________________________| |
+  |  ___   ___   ___    _____   |
+  | | 1 | | 2 | | 3 |  |ENTER|  |
+  | |___| |___| |___|  |_____|  |
+  |______________________________|
+</pre>
+
+<!-- Scan Lines Effect -->
+<p align="center">
+  <img src="https://i.imgur.com/nM6WQ5E.gif" width="100%" height="3" alt="Scan lines"/>
+</p>
 <!-- Animated About Me Section -->
 <details open>
 <summary><h2 style="display: inline-block">🌟 About Me</h2></summary>
