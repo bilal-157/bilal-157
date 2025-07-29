@@ -5,9 +5,7 @@
 
 <!-- 3D Typing Animation Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&height=100&lines=👋+Hi%2C+I'm+Bilal+Rafique;💻+Full-Stack+Next.js+Developer;🧠+AI+Enthusiast+%26+Open-Source+Contributor;🚀+Passionate+Problem+Solver;Let's+build+the+future+together!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&width=800&lines=👋+Hi,+I'm+Bilal+Rafique;💻+Full-Stack+Next.js+Developer;🧠+AI+Enthusiast+%26+Open-Source+Contributor;🚀+Passionate+Problem+Solver;Let's+build+the+future+together!" />
 </p>
 
 <!-- Floating Tech Icons Animation -->
