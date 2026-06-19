@@ -1,131 +1,457 @@
-<div align="center">
+<!-- Clean Typing Banner -->
 
-# Bilal Rafique
+<p align="center">
 
-### Web Developer · AI-Enhanced Applications
+  <a href="https://github.com/bilal-157">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1500&color=4C8DFF&center=true&vCenter=true&width=560&height=35&lines=Full-Stack+Next.js+Developer;Building+AI-Powered+Web+Applications;Open+to+Collaboration" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Bilal+Rafique;Full-Stack+Next.js+Developer;AI+%26+Data+Science+Explorer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
 
-<br>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadbilal711)
-[![Email](https://img.shields.io/badge/Email-4C8DFF?style=flat-square&logo=gmail&logoColor=white)](mailto:rafiqueb087@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-2C2C2C?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bilal157/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F2937?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bilal_rafi)
-[![CSES](https://img.shields.io/badge/CSES-1F2937?style=flat-square&logo=data&logoColor=white)](https://cses.fi/user/340387/)
+</p>
 
-</div>
 
-<br>
 
-## About
+<!-- Minimalistic Coding GIF -->
 
-I'm a full-stack developer focused on building modern, performant web applications — primarily with **Next.js and React** — and increasingly integrating **AI and data-driven features** into the products I build. I enjoy turning ambiguous problems into clean, maintainable solutions, and I'm continuing to grow my background in deep learning and system design alongside my web development work.
+<p align="center">
 
-- 🔭 Currently building AI-powered web applications
-- 🌱 Deepening my knowledge of deep learning and system design
-- 🤝 Open to open-source collaboration and freelance/full-time opportunities
-- 🧠 Active on competitive programming platforms (Codeforces, LeetCode, CSES)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation" />
 
-<br>
+</p>
 
-## Tech Stack
 
-<table width="100%">
-<tr>
-<th align="left" width="20%">Frontend</th>
-<td>
 
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1F2937?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![PHP](https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=777BB4)
+<!-- Animated About Me Section -->
 
-</td>
-</tr>
-<tr>
-<th align="left">Backend</th>
-<td>
+<details open>
 
-![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1F2937?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1F2937?style=flat-square&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
-![GraphQL](https://img.shields.io/badge/GraphQL-1F2937?style=flat-square&logo=graphql&logoColor=E10098)
-![JWT](https://img.shields.io/badge/JWT-1F2937?style=flat-square&logo=json-web-tokens&logoColor=white)
+<summary><h2 style="display: inline-block">🌟 About Me</h2></summary>
 
-</td>
-</tr>
-<tr>
-<th align="left">Languages</th>
-<td>
+  
 
-![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-1F2937?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square&logo=c-sharp&logoColor=239120)
-![PHP](https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=777BB4)
+🔭 I'm currently working on **AI-powered web applications**  
 
-</td>
-</tr>
-<tr>
-<th align="left">Databases</th>
-<td>
+🌱 Learning **Deep Learning & Advanced System Design**  
 
-![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Mongoose](https://img.shields.io/badge/Mongoose-1F2937?style=flat-square&logo=mongoose&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-1F2937?style=flat-square&logo=sequelize&logoColor=52B0E7)
+💡 Passionate about **solving complex problems with elegant solutions**  
 
-</td>
-</tr>
-<tr>
-<th align="left">AI & Data</th>
-<td>
+👯 Looking to collaborate on **open-source projects**  
 
-![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1F2937?style=flat-square&logo=python&logoColor=11557C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-1F2937?style=flat-square&logo=keras&logoColor=D00000)
+⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**  
 
-</td>
-</tr>
-<tr>
-<th align="left">Tools & Deployment</th>
-<td>
+</details>
 
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-1F2937?style=flat-square&logo=nginx&logoColor=009639)
-![Postman](https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+ Curious – exploring modern API development beyond REST  
 
-</td>
-</tr>
-</table>
 
-<br>
 
-## GitHub Activity
+---
+
+
+
+## 🌐 **Connect With Me**  
+
+ 
+
+<p align="center">
+
+  <a href="https://discord.gg/bugs119"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+
+  <a href="https://www.facebook.com/share/1B3TzGo6Wu/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"/></a>
+
+  <a href="https://instagram.com/bilal_rafique_11"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+
+  <a href="https://www.linkedin.com/in/muhammadbilal711"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+
+  <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+
+  <a href="https://codeforces.com/profile/bilal_rafi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/></a>
+
+  <a href="https://cses.fi/user/340387/"><img src="https://img.shields.io/badge/CSES-005FAF?logo=data&logoColor=white"/></a>
+
+  <a href="https://leetcode.com/u/Bilal157/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
+
+  
+
+</p>
+
+
+
+
+
+
+
+---
+
+
+
+## 💻 **Tech Stack & Skills**
+
+
+
+<!-- Animated Gradient Header -->
+
+<h3 align="center" style="background: linear-gradient(90deg, #00D8FF, #FF00E4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
+
+  🌐 Frontend Development
+
+</h3>
+
+
+
+<!-- Floating Icons with Glow Effect -->
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=default&bg_color=FFFFFF&title_color=1F2937&icon_color=4C8DFF&text_color=374151&border_color=E5E7EB&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&theme=default&bg_color=FFFFFF&title_color=1F2937&text_color=374151&border_color=E5E7EB&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=default&background=FFFFFF&ring=4C8DFF&fire=4C8DFF&currStreakLabel=1F2937&sideLabels=374151&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280&border=E5E7EB"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7&theme=light" alt="Frontend" style="filter: drop-shadow(0 0 8px #00D8FF)"/>
 
 </div>
 
-<br>
+
+
+<!-- Glassmorphism Cards -->
 
 <div align="center">
-<sub>Thanks for visiting — feel free to check out my pinned repositories below.</sub>
+
+  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+    <tr>
+
+      <td><strong>Category</strong></td>
+
+      <td><strong>Technologies</strong></td>
+
+    </tr>
+
+    <tr>
+
+      <td>Core</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="filter: drop-shadow(0 0 5px #E34F26)"/>
+
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="filter: drop-shadow(0 0 5px #1572B6)"/>
+
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="filter: drop-shadow(0 0 5px #F7DF1E)"/>
+
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="filter: drop-shadow(0 0 5px #777BB4)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>Frameworks</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" style="filter: drop-shadow(0 0 5px #61DAFB)"/>
+
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>CSS Frameworks</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" style="filter: drop-shadow(0 0 5px #38B2AC)"/>
+
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" style="filter: drop-shadow(0 0 5px #7952B3)"/>
+
+      </td>
+
+    </tr>
+
+  </table>
+
 </div>
+
+
+
+<!-- Animated Divider -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&animation=blink"/>
+
+
+
+<h3 align="center" style="background: linear-gradient(90deg, #FF00E4, #00D8FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
+
+  ⚙️ Backend & AI Development
+
+</h3>
+
+
+
+<!-- Floating Icons with Pulse Animation -->
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=light" alt="Backend" style="animation: pulse 2s infinite"/>
+
+</div>
+
+
+
+<!-- Glassmorphism Cards -->
+
+<div align="center">
+
+  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 20px;">
+
+    <tr>
+
+      <td><strong>Category</strong></td>
+
+      <td><strong>Technologies</strong></td>
+
+    </tr>
+
+    <tr>
+
+      <td>Runtime</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="filter: drop-shadow(0 0 5px #339933)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>Frameworks</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
+
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" style="filter: drop-shadow(0 0 5px #009688)"/>
+
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
+
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" style="filter: drop-shadow(0 0 5px #092E20)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>Databases</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" style="filter: drop-shadow(0 0 5px #47A248)"/>
+
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" style="filter: drop-shadow(0 0 5px #4169E1)"/>
+
+        <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" style="filter: drop-shadow(0 0 5px #880000)"/>
+
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" style="filter: drop-shadow(0 0 5px #52B0E7)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>APIs</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" style="filter: drop-shadow(0 0 5px #E10098)"/>
+
+        <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest&logoColor=white" style="filter: drop-shadow(0 0 5px #FF6C37)"/>
+
+        <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>Languages</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="filter: drop-shadow(0 0 5px #3776AB)"/>
+
+        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="filter: drop-shadow(0 0 5px #00599C)"/>
+
+        <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" style="filter: drop-shadow(0 0 5px #239120)"/>
+
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="filter: drop-shadow(0 0 5px #777BB4)"/>
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td>AI & ML Tools</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="filter: drop-shadow(0 0 5px #013243)"/>
+
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" style="filter: drop-shadow(0 0 5px #150458)"/>
+
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" style="filter: drop-shadow(0 0 5px #11557C)"/>
+
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" style="filter: drop-shadow(0 0 5px #FF6F00)"/>
+
+        <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" style="filter: drop-shadow(0 0 5px #D00000)"/>
+
+      </td>
+
+    </tr>
+
+  </table>
+
+</div>
+
+
+
+<!-- Animated Divider -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&animation=blink"/>
+
+
+
+<h3 align="center" style="background: linear-gradient(90deg, #00D8FF, #FF00E4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
+
+  🛠️ Tools & Deployment
+
+</h3>
+
+
+
+<!-- Rotating Icons -->
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode,docker,nginx&perline=7&theme=light" alt="Tools" style="animation: float 6s ease-in-out infinite"/>
+
+</div>
+
+
+
+<!-- Glassmorphism Cards -->
+
+<div align="center">
+
+  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 20px;">
+
+    <tr>
+
+      <td><strong>Category</strong></td>
+
+      <td><strong>Technologies</strong></td>
+
+    </tr>
+
+    <tr>
+
+      <td>DevOps</td>
+
+      <td>
+
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="filter: drop-shadow(0 0 5px #2496ED)"/>
+
+        <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" style="filter: drop-shadow(0 0 5px #009639)"/>
+
+      </td>
+
+    </tr>
+
+  </table>
+
+</div>
+
+
+
+<!-- Snake Game Contribution Graph -->
+
+<div align="center" style="margin-top: 30px;">
+
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div><!-- Animated GitHub Stats Section -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+
+
+<div align="center">
+
+  <!-- Animated Stats Cards -->
+
+  <a href="https://github.com/bilal-157">
+
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&animation=twinkling"/>
+
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&langs_count=8&theme=radical&border_radius=10&animation=twinkling"/>
+
+  </a>
+
+</div>
+
+
+
+<div align="center">
+
+  <!-- GitHub Streak Stats with Fire Animation -->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&border_radius=10&animation=twinkling&fire=DD2727" alt="bilal-157" />
+
+</div>
+
+<!-- Top Languages -->
+
+<p align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+
+</p>
+
+
+
+<!-- 3D Contribution Graph -->
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-157&theme=radical" width="90%"/>
+
+</div>
+
+
+
+<!-- Animated Quote -->
+
+<h2 align="center">💬 Dev Quote</h2>
+
+<p align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" width="70%"/>
+
+</p>
+
+
+
+<!-- Animated Footer -->
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</p>
