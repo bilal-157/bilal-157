@@ -67,6 +67,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="filter: drop-shadow(0 0 5px #E34F26)"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="filter: drop-shadow(0 0 5px #1572B6)"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="filter: drop-shadow(0 0 5px #F7DF1E)"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="filter: drop-shadow(0 0 5px #777BB4)"/>
       </td>
     </tr>
     <tr>
@@ -95,7 +96,7 @@
 
 <!-- Floating Icons with Pulse Animation -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,fastapi,py,cpp,cs&perline=9&theme=light" alt="Backend" style="animation: pulse 2s infinite"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=light" alt="Backend" style="animation: pulse 2s infinite"/>
 </div>
 
 <!-- Glassmorphism Cards -->
@@ -116,6 +117,7 @@
       <td>
         <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" style="filter: drop-shadow(0 0 5px #009688)"/>
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
       </td>
     </tr>
     <tr>
@@ -141,6 +143,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="filter: drop-shadow(0 0 5px #3776AB)"/>
         <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="filter: drop-shadow(0 0 5px #00599C)"/>
         <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" style="filter: drop-shadow(0 0 5px #239120)"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="filter: drop-shadow(0 0 5px #777BB4)"/>
       </td>
     </tr>
     <tr>
@@ -148,6 +151,7 @@
       <td>
         <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="filter: drop-shadow(0 0 5px #013243)"/>
         <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" style="filter: drop-shadow(0 0 5px #150458)"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" style="filter: drop-shadow(0 0 5px #11557C)"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" style="filter: drop-shadow(0 0 5px #FF6F00)"/>
         <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" style="filter: drop-shadow(0 0 5px #D00000)"/>
       </td>
@@ -164,7 +168,24 @@
 
 <!-- Rotating Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode&perline=7&theme=light" alt="Tools" style="animation: float 6s ease-in-out infinite"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode,docker,nginx&perline=7&theme=light" alt="Tools" style="animation: float 6s ease-in-out infinite"/>
+</div>
+
+<!-- Glassmorphism Cards -->
+<div align="center">
+  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 20px;">
+    <tr>
+      <td><strong>Category</strong></td>
+      <td><strong>Technologies</strong></td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="filter: drop-shadow(0 0 5px #2496ED)"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" style="filter: drop-shadow(0 0 5px #009639)"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Snake Game Contribution Graph -->
