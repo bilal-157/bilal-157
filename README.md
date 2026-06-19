@@ -96,7 +96,7 @@
 
 <!-- Floating Icons with Pulse Animation -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=light" alt="Backend" style="animation: pulse 2s infinite"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=light" alt="Backend" style="animation: pulse 2s infinite"/>
 </div>
 
 <!-- Glassmorphism Cards -->
@@ -118,6 +118,7 @@
         <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" style="filter: drop-shadow(0 0 5px #009688)"/>
         <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" style="filter: drop-shadow(0 0 5px #092E20)"/>
       </td>
     </tr>
     <tr>
