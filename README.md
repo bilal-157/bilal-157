@@ -1,6 +1,6 @@
 <!-- Animated Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:E10600&height=180&section=header&text=Bilal%20Rafique&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Next.js%20Developer%20%7C%20AI%20%26%20Data%20Science%20Explorer&descAlignY=58&descSize=18"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Bilal+Rafique;Full-Stack+Next.js+Developer;AI+%26+Data+Science+Explorer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
 </p>
 
 <!-- Clean Typing Banner -->
