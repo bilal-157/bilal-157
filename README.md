@@ -1,125 +1,131 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Bilal%20Rafique&fontColor=39FF14&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=55&descColor=8B949E&descSize=16"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=40&lines=root%40bilal%3A~%24+whoami;Full-Stack+Next.js+Developer;AI+%26+Data+Science+Explorer;Open-Source+Contributor" alt="Typing animation" />
+# Bilal Rafique
+
+### Web Developer · AI-Enhanced Applications
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1500&color=4C8DFF&center=true&vCenter=true&width=560&height=35&lines=Full-Stack+Next.js+Developer;Building+AI-Powered+Web+Applications;Open+to+Collaboration" alt="Typing animation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/status-online-39FF14?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/based_in-Pakistan-39FF14?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/focus-Next.js_%7C_AI-39FF14?style=flat-square&labelColor=0D1117"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadbilal711)
+[![Email](https://img.shields.io/badge/Email-4C8DFF?style=flat-square&logo=gmail&logoColor=white)](mailto:rafiqueb087@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2C2C2C?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bilal157/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F2937?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bilal_rafi)
+[![CSES](https://img.shields.io/badge/CSES-1F2937?style=flat-square&logo=data&logoColor=white)](https://cses.fi/user/340387/)
 
 </div>
 
 <br>
 
-<table align="center" width="100%">
+## About
+
+I'm a full-stack developer focused on building modern, performant web applications — primarily with **Next.js and React** — and increasingly integrating **AI and data-driven features** into the products I build. I enjoy turning ambiguous problems into clean, maintainable solutions, and I'm continuing to grow my background in deep learning and system design alongside my web development work.
+
+- 🔭 Currently building AI-powered web applications
+- 🌱 Deepening my knowledge of deep learning and system design
+- 🤝 Open to open-source collaboration and freelance/full-time opportunities
+- 🧠 Active on competitive programming platforms (Codeforces, LeetCode, CSES)
+
+<br>
+
+## Tech Stack
+
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<th align="left" width="20%">Frontend</th>
+<td>
 
-> **\$ cat about.md**
-
-```yaml
-role:        Full-Stack Developer
-stack:       Next.js, React, Node.js
-exploring:   Deep Learning, System Design
-mindset:     elegant solutions > clever ones
-status:      open to collaboration
-fun_fact:    solves a Rubik's cube in < 2 min
-```
+![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1F2937?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![PHP](https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=777BB4)
 
 </td>
-<td width="45%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
+</tr>
+<tr>
+<th align="left">Backend</th>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1F2937?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1F2937?style=flat-square&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/GraphQL-1F2937?style=flat-square&logo=graphql&logoColor=E10098)
+![JWT](https://img.shields.io/badge/JWT-1F2937?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<th align="left">Languages</th>
+<td>
+
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-1F2937?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square&logo=c-sharp&logoColor=239120)
+![PHP](https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=777BB4)
+
+</td>
+</tr>
+<tr>
+<th align="left">Databases</th>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Mongoose](https://img.shields.io/badge/Mongoose-1F2937?style=flat-square&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-1F2937?style=flat-square&logo=sequelize&logoColor=52B0E7)
+
+</td>
+</tr>
+<tr>
+<th align="left">AI & Data</th>
+<td>
+
+![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1F2937?style=flat-square&logo=python&logoColor=11557C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-1F2937?style=flat-square&logo=keras&logoColor=D00000)
+
+</td>
+</tr>
+<tr>
+<th align="left">Tools & Deployment</th>
+<td>
+
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-1F2937?style=flat-square&logo=nginx&logoColor=009639)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+
 </td>
 </tr>
 </table>
 
 <br>
 
-> **\$ ls socials/**
-
-<p align="center">
-  <a href="https://discord.gg/bugs119"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="https://www.facebook.com/share/1B3TzGo6Wu/"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="https://instagram.com/bilal_rafique_11"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="https://www.linkedin.com/in/muhammadbilal711"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="https://codeforces.com/profile/bilal_rafi"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="https://cses.fi/user/340387/"><img src="https://img.shields.io/badge/CSES-0D1117?style=for-the-badge&logo=data&logoColor=39FF14&labelColor=0D1117"/></a>
-  <a href="https://leetcode.com/u/Bilal157/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-> **\$ cat tech-stack.json**
+## GitHub Activity
 
 <div align="center">
 
-<sub>**FRONTEND**</sub>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=default&bg_color=FFFFFF&title_color=1F2937&icon_color=4C8DFF&text_color=374151&border_color=E5E7EB&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&theme=default&bg_color=FFFFFF&title_color=1F2937&text_color=374151&border_color=E5E7EB&langs_count=8"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,php&perline=8&theme=dark"/>
-
-<br><br>
-
-<sub>**BACKEND · DATABASES · APIs**</sub>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,py,cpp,cs,mongodb,postgresql,graphql&perline=11&theme=dark"/>
-
-<br><br>
-
-<sub>**AI & DATA**</sub>
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=39FF14"/>
-
-<br><br>
-
-<sub>**TOOLS & DEPLOYMENT**</sub>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,vercel,heroku,netlify,vscode&perline=9&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=default&background=FFFFFF&ring=4C8DFF&fire=4C8DFF&currStreakLabel=1F2937&sideLabels=374151&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280&border=E5E7EB"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-> **\$ git log --stats --author="bilal-157"**
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D&langs_count=8"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=30363D"/>
-
-</div>
-
-> **\$ ./contribution_graph.sh --animate**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-> **\$ fortune | cowsay**
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
-</p>
 
 <br>
 
 <div align="center">
-<sub>thanks for stopping by — feel free to explore my pinned repos below ↓</sub>
+<sub>Thanks for visiting — feel free to check out my pinned repositories below.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=110&section=footer"/>
