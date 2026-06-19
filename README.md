@@ -1,7 +1,12 @@
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:E10600&height=180&section=header&text=Bilal%20Rafique&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Next.js%20Developer%20%7C%20AI%20%26%20Data%20Science%20Explorer&descAlignY=58&descSize=18"/>
+</p>
+
 <!-- Clean Typing Banner -->
 <p align="center">
   <a href="https://github.com/bilal-157">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Bilal+Rafique;Full-Stack+Next.js+Developer;AI+%26+Data+Science+Explorer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Bilal+Rafique;Full-Stack+Next.js+Developer;AI+%26+Data+Science+Explorer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
   </a>
 </p>
 
@@ -13,217 +18,120 @@
 <!-- Animated About Me Section -->
 <details open>
 <summary><h2 style="display: inline-block">🌟 About Me</h2></summary>
-  
-🔭 I'm currently working on **AI-powered web applications**  
-🌱 Learning **Deep Learning & Advanced System Design**  
-💡 Passionate about **solving complex problems with elegant solutions**  
-👯 Looking to collaborate on **open-source projects**  
-⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**  
+
+🔭 I'm currently working on **AI-powered web applications**
+🌱 Learning **Deep Learning & Advanced System Design**
+💡 Passionate about **solving complex problems with elegant solutions**
+👯 Looking to collaborate on **open-source projects**
+⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+🧠 Curious – exploring modern API development beyond REST
 </details>
- Curious – exploring modern API development beyond REST  
 
 ---
 
-## 🌐 **Connect With Me**  
- 
+## 🌐 **Connect With Me**
+
 <p align="center">
-  <a href="https://discord.gg/bugs119"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/1B3TzGo6Wu/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/bilal_rafique_11"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammadbilal711"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/bilal_rafi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white"/></a>
-  <a href="https://cses.fi/user/340387/"><img src="https://img.shields.io/badge/CSES-005FAF?logo=data&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Bilal157/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
-  
+  <a href="https://discord.gg/bugs119"><img src="https://img.shields.io/badge/Discord-0A192F?style=for-the-badge&logo=discord&logoColor=E10600"/></a>
+  <a href="https://www.facebook.com/share/1B3TzGo6Wu/"><img src="https://img.shields.io/badge/Facebook-0A192F?style=for-the-badge&logo=facebook&logoColor=E10600"/></a>
+  <a href="https://instagram.com/bilal_rafique_11"><img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=E10600"/></a>
+  <a href="https://www.linkedin.com/in/muhammadbilal711"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=E10600"/></a>
+  <a href="mailto:rafiqueb087@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=E10600"/></a>
+  <a href="https://codeforces.com/profile/bilal_rafi"><img src="https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=E10600"/></a>
+  <a href="https://cses.fi/user/340387/"><img src="https://img.shields.io/badge/CSES-0A192F?style=for-the-badge&logo=data&logoColor=E10600"/></a>
+  <a href="https://leetcode.com/u/Bilal157/"><img src="https://img.shields.io/badge/LeetCode-0A192F?style=for-the-badge&logo=leetcode&logoColor=E10600"/></a>
 </p>
 
-
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:E10600&height=3&section=header"/>
 
 ## 💻 **Tech Stack & Skills**
 
-<!-- Animated Gradient Header -->
-<h3 align="center" style="background: linear-gradient(90deg, #00D8FF, #FF00E4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
-  🌐 Frontend Development
-</h3>
+<h3 align="center">🌐 Frontend Development</h3>
 
-<!-- Floating Icons with Glow Effect -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7&theme=light" alt="Frontend" style="filter: drop-shadow(0 0 8px #00D8FF)"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7&theme=dark" alt="Frontend"/>
 </div>
 
-<!-- Glassmorphism Cards -->
 <div align="center">
-  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-    <tr>
-      <td><strong>Category</strong></td>
-      <td><strong>Technologies</strong></td>
-    </tr>
-    <tr>
-      <td>Core</td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="filter: drop-shadow(0 0 5px #E34F26)"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="filter: drop-shadow(0 0 5px #1572B6)"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="filter: drop-shadow(0 0 5px #F7DF1E)"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="filter: drop-shadow(0 0 5px #777BB4)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Frameworks</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" style="filter: drop-shadow(0 0 5px #61DAFB)"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>CSS Frameworks</td>
-      <td>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" style="filter: drop-shadow(0 0 5px #38B2AC)"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" style="filter: drop-shadow(0 0 5px #7952B3)"/>
-      </td>
-    </tr>
-  </table>
+
+| Category | Technologies |
+|:---:|:---|
+| **Core** | ![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=flat-square&logo=html5&logoColor=E10600) ![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=flat-square&logo=css3&logoColor=E10600) ![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=E10600) ![PHP](https://img.shields.io/badge/PHP-0A192F?style=flat-square&logo=php&logoColor=E10600) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=E10600) ![Next.js](https://img.shields.io/badge/Next.js-0A192F?style=flat-square&logo=next.js&logoColor=E10600) |
+| **CSS Frameworks** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A192F?style=flat-square&logo=tailwind-css&logoColor=E10600) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A192F?style=flat-square&logo=bootstrap&logoColor=E10600) |
+
 </div>
 
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&animation=blink"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:0A192F&height=2&section=header&animation=blink"/>
 
-<h3 align="center" style="background: linear-gradient(90deg, #FF00E4, #00D8FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
-  ⚙️ Backend & AI Development
-</h3>
+<h3 align="center">⚙️ Backend & AI Development</h3>
 
-<!-- Floating Icons with Pulse Animation -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=light" alt="Backend" style="animation: pulse 2s infinite"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=dark" alt="Backend"/>
 </div>
 
-<!-- Glassmorphism Cards -->
 <div align="center">
-  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 20px;">
-    <tr>
-      <td><strong>Category</strong></td>
-      <td><strong>Technologies</strong></td>
-    </tr>
-    <tr>
-      <td>Runtime</td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="filter: drop-shadow(0 0 5px #339933)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Frameworks</td>
-      <td>
-        <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" style="filter: drop-shadow(0 0 5px #009688)"/>
-        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
-        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" style="filter: drop-shadow(0 0 5px #092E20)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Databases</td>
-      <td>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" style="filter: drop-shadow(0 0 5px #47A248)"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" style="filter: drop-shadow(0 0 5px #4169E1)"/>
-        <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" style="filter: drop-shadow(0 0 5px #880000)"/>
-        <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" style="filter: drop-shadow(0 0 5px #52B0E7)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>APIs</td>
-      <td>
-        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" style="filter: drop-shadow(0 0 5px #E10098)"/>
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=rest&logoColor=white" style="filter: drop-shadow(0 0 5px #FF6C37)"/>
-        <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" style="filter: drop-shadow(0 0 5px #000000)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Languages</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="filter: drop-shadow(0 0 5px #3776AB)"/>
-        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="filter: drop-shadow(0 0 5px #00599C)"/>
-        <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" style="filter: drop-shadow(0 0 5px #239120)"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="filter: drop-shadow(0 0 5px #777BB4)"/>
-      </td>
-    </tr>
-    <tr>
-      <td>AI & ML Tools</td>
-      <td>
-        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="filter: drop-shadow(0 0 5px #013243)"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" style="filter: drop-shadow(0 0 5px #150458)"/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" style="filter: drop-shadow(0 0 5px #11557C)"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" style="filter: drop-shadow(0 0 5px #FF6F00)"/>
-        <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" style="filter: drop-shadow(0 0 5px #D00000)"/>
-      </td>
-    </tr>
-  </table>
+
+| Category | Technologies |
+|:---:|:---|
+| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-0A192F?style=flat-square&logo=node.js&logoColor=E10600) |
+| **Frameworks** | ![Express](https://img.shields.io/badge/Express.js-0A192F?style=flat-square&logo=express&logoColor=E10600) ![FastAPI](https://img.shields.io/badge/FastAPI-0A192F?style=flat-square&logo=fastapi&logoColor=E10600) ![Flask](https://img.shields.io/badge/Flask-0A192F?style=flat-square&logo=flask&logoColor=E10600) ![Django](https://img.shields.io/badge/Django-0A192F?style=flat-square&logo=django&logoColor=E10600) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-0A192F?style=flat-square&logo=mongodb&logoColor=E10600) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=flat-square&logo=postgresql&logoColor=E10600) ![Mongoose](https://img.shields.io/badge/Mongoose-0A192F?style=flat-square&logo=mongoose&logoColor=E10600) ![Sequelize](https://img.shields.io/badge/Sequelize-0A192F?style=flat-square&logo=sequelize&logoColor=E10600) |
+| **APIs** | ![GraphQL](https://img.shields.io/badge/GraphQL-0A192F?style=flat-square&logo=graphql&logoColor=E10600) ![REST](https://img.shields.io/badge/REST_API-0A192F?style=flat-square&logo=rest&logoColor=E10600) ![JWT](https://img.shields.io/badge/JWT-0A192F?style=flat-square&logo=json-web-tokens&logoColor=E10600) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=E10600) ![C++](https://img.shields.io/badge/C++-0A192F?style=flat-square&logo=c%2B%2B&logoColor=E10600) ![C#](https://img.shields.io/badge/C%23-0A192F?style=flat-square&logo=c-sharp&logoColor=E10600) ![PHP](https://img.shields.io/badge/PHP-0A192F?style=flat-square&logo=php&logoColor=E10600) |
+| **AI & ML Tools** | ![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=flat-square&logo=numpy&logoColor=E10600) ![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=flat-square&logo=pandas&logoColor=E10600) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A192F?style=flat-square&logo=python&logoColor=E10600) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A192F?style=flat-square&logo=tensorflow&logoColor=E10600) ![Keras](https://img.shields.io/badge/Keras-0A192F?style=flat-square&logo=keras&logoColor=E10600) |
+
 </div>
 
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&animation=blink"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:E10600&height=2&section=header&animation=blink"/>
 
-<h3 align="center" style="background: linear-gradient(90deg, #00D8FF, #FF00E4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
-  🛠️ Tools & Deployment
-</h3>
+<h3 align="center">🛠️ Tools & Deployment</h3>
 
-<!-- Rotating Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode,docker,nginx&perline=7&theme=light" alt="Tools" style="animation: float 6s ease-in-out infinite"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode,docker,nginx&perline=7&theme=dark" alt="Tools"/>
 </div>
 
-<!-- Glassmorphism Cards -->
 <div align="center">
-  <table style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 20px;">
-    <tr>
-      <td><strong>Category</strong></td>
-      <td><strong>Technologies</strong></td>
-    </tr>
-    <tr>
-      <td>DevOps</td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="filter: drop-shadow(0 0 5px #2496ED)"/>
-        <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" style="filter: drop-shadow(0 0 5px #009639)"/>
-      </td>
-    </tr>
-  </table>
+
+| Category | Technologies |
+|:---:|:---|
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-0A192F?style=flat-square&logo=docker&logoColor=E10600) ![Nginx](https://img.shields.io/badge/Nginx-0A192F?style=flat-square&logo=nginx&logoColor=E10600) |
+
 </div>
 
 <!-- Snake Game Contribution Graph -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
-</div><!-- Animated GitHub Stats Section -->
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:0A192F&height=3&section=header"/>
+
+<!-- Animated GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <!-- Animated Stats Cards -->
-  <a href="https://github.com/bilal-157">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&animation=twinkling"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&langs_count=8&theme=radical&border_radius=10&animation=twinkling"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal-157&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0A192F&title_color=E10600&icon_color=E10600&text_color=FFFFFF&ring_color=E10600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&layout=compact&langs_count=8&border_radius=10&hide_border=true&bg_color=0A192F&title_color=E10600&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <!-- GitHub Streak Stats with Fire Animation -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&theme=radical&border_radius=10&animation=twinkling&fire=DD2727" alt="bilal-157" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-157&border_radius=10&hide_border=true&background=0A192F&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0" alt="bilal-157" />
 </div>
-<!-- Top Languages -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-157&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
 
 <!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-157&theme=radical" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-157&theme=react_dark" width="90%"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:E10600&height=2&section=header&animation=blink"/>
 
 <!-- Animated Quote -->
 <h2 align="center">💬 Dev Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" width="70%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&animation=grow_out_in&bg_color=0A192F&color=E10600&border_color=E10600" width="70%"/>
 </p>
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:E10600&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
