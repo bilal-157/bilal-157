@@ -48,59 +48,42 @@
 
 ## 💻 **Tech Stack & Skills**
 
-<h3 align="center">🌐 Frontend Development</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7&theme=dark" alt="Frontend"/>
-</div>
-
 <div align="center">
 
-| Category | Technologies |
-|:---:|:---|
-| **Core** | ![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=flat-square&logo=html5&logoColor=E10600) ![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=flat-square&logo=css3&logoColor=E10600) ![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=E10600) ![PHP](https://img.shields.io/badge/PHP-0A192F?style=flat-square&logo=php&logoColor=E10600) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=E10600) ![Next.js](https://img.shields.io/badge/Next.js-0A192F?style=flat-square&logo=next.js&logoColor=E10600) |
-| **CSS Frameworks** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A192F?style=flat-square&logo=tailwind-css&logoColor=E10600) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A192F?style=flat-square&logo=bootstrap&logoColor=E10600) |
+### 🗣️ Languages
+
+<img src="https://skillicons.dev/icons?i=js,py,cpp,cs,php,html,css&perline=7&theme=dark" alt="Languages"/>
+
+<br/>
+
+### 🧩 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,fastapi,tailwind,bootstrap&perline=9&theme=dark" alt="Frameworks"/>
+
+<br/>
+
+### 🗄️ Databases & APIs
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,graphql&perline=3&theme=dark" alt="Databases"/>
+
+<br/>
+
+### 🤖 AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=3&theme=dark" alt="AI Tools"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=E10600"/>
+<img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=E10600"/>
+<img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=python&logoColor=E10600"/>
+<img src="https://img.shields.io/badge/Keras-0A192F?style=for-the-badge&logo=keras&logoColor=E10600"/>
+
+<br/>
+
+### 🛠️ Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,vercel,netlify,heroku,vscode&perline=9&theme=dark" alt="Tools"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:0A192F&height=2&section=header&animation=blink"/>
-
-<h3 align="center">⚙️ Backend & AI Development</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,postgresql,graphql,fastapi,py,cpp,cs,php&perline=9&theme=dark" alt="Backend"/>
-</div>
-
-<div align="center">
-
-| Category | Technologies |
-|:---:|:---|
-| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-0A192F?style=flat-square&logo=node.js&logoColor=E10600) |
-| **Frameworks** | ![Express](https://img.shields.io/badge/Express.js-0A192F?style=flat-square&logo=express&logoColor=E10600) ![FastAPI](https://img.shields.io/badge/FastAPI-0A192F?style=flat-square&logo=fastapi&logoColor=E10600) ![Flask](https://img.shields.io/badge/Flask-0A192F?style=flat-square&logo=flask&logoColor=E10600) ![Django](https://img.shields.io/badge/Django-0A192F?style=flat-square&logo=django&logoColor=E10600) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-0A192F?style=flat-square&logo=mongodb&logoColor=E10600) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=flat-square&logo=postgresql&logoColor=E10600) ![Mongoose](https://img.shields.io/badge/Mongoose-0A192F?style=flat-square&logo=mongoose&logoColor=E10600) ![Sequelize](https://img.shields.io/badge/Sequelize-0A192F?style=flat-square&logo=sequelize&logoColor=E10600) |
-| **APIs** | ![GraphQL](https://img.shields.io/badge/GraphQL-0A192F?style=flat-square&logo=graphql&logoColor=E10600) ![REST](https://img.shields.io/badge/REST_API-0A192F?style=flat-square&logo=rest&logoColor=E10600) ![JWT](https://img.shields.io/badge/JWT-0A192F?style=flat-square&logo=json-web-tokens&logoColor=E10600) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=E10600) ![C++](https://img.shields.io/badge/C++-0A192F?style=flat-square&logo=c%2B%2B&logoColor=E10600) ![C#](https://img.shields.io/badge/C%23-0A192F?style=flat-square&logo=c-sharp&logoColor=E10600) ![PHP](https://img.shields.io/badge/PHP-0A192F?style=flat-square&logo=php&logoColor=E10600) |
-| **AI & ML Tools** | ![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=flat-square&logo=numpy&logoColor=E10600) ![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=flat-square&logo=pandas&logoColor=E10600) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A192F?style=flat-square&logo=python&logoColor=E10600) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A192F?style=flat-square&logo=tensorflow&logoColor=E10600) ![Keras](https://img.shields.io/badge/Keras-0A192F?style=flat-square&logo=keras&logoColor=E10600) |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:E10600&height=2&section=header&animation=blink"/>
-
-<h3 align="center">🛠️ Tools & Deployment</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,heroku,netlify,vscode,docker,nginx&perline=7&theme=dark" alt="Tools"/>
-</div>
-
-<div align="center">
-
-| Category | Technologies |
-|:---:|:---|
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-0A192F?style=flat-square&logo=docker&logoColor=E10600) ![Nginx](https://img.shields.io/badge/Nginx-0A192F?style=flat-square&logo=nginx&logoColor=E10600) |
-
-</div>
-
 <!-- Snake Game Contribution Graph -->
 <div align="center" style="margin-top: 30px;">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
