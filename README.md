@@ -19,12 +19,15 @@
 <details open>
 <summary><h2 style="display: inline-block">🌟 About Me</h2></summary>
 
-🔭 I'm currently working on **AI-powered web applications**
-🌱 Learning **Deep Learning & Advanced System Design**
+🎓 BSCS student who loves turning **real-world problems into elegant code**
+🚀 Full-Stack Developer with **AI-powered capabilities** across modern tech frameworks
+🧩 Active problem solver on **LeetCode, CSES, and Codeforces**
+⌨️ Speed typist — **109 WPM** and counting
+🏆 Hackathon enthusiast who thrives on tight deadlines and big ideas
+🤝 Big believer in **collaborating with other developers** to build better things
 💡 Passionate about **solving complex problems with elegant solutions**
-👯 Looking to collaborate on **open-source projects**
-⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
-🧠 Curious – exploring modern API development beyond REST
+🧠 Curious — exploring modern API development beyond REST
+
 </details>
 
 ---
