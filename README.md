@@ -1,6 +1,5 @@
 <!-- Animated Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Bilal+Rafique;Full-Stack+Next.js+Developer;AI+%26+Data+Science+Explorer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
 </p>
 
 <!-- Clean Typing Banner -->
