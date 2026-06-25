@@ -5,7 +5,7 @@
 <!-- Clean Typing Banner -->
 <p align="center">
   <a href="https://github.com/bilal-157">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Bilal+Rafique;Full-Stack+Next.js+Developer;AI+Engineer%26+Full+Stack+Developer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Bilal+Rafique;Full-Stack+Developer;AI+Engineer+%26+ML+Engineer;Open-Source+Contributor;Coding+with+passion+every+day" alt="Typing animation" />
   </a>
 </p>
 
